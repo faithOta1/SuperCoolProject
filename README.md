@@ -1,5 +1,3 @@
 # SuperCoolProject
-
-Guys im having second thoughts, this might not be as cool as I thought.
-
-Mark Fuller
+##SPRING 2025 Lab 8 
+this is a test - Faith Ota
